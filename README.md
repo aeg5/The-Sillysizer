@@ -10,3 +10,6 @@ To use the MIDI to CV converter, LoopMIDI (virtual MIDI loopback port) and Hairl
 
 # A reflection
 This was a perfect first dive into the world of analog of electronics. Most of the new theory I learned revolved around transistors (BJTs and JFETs), op amps, and RC filters. Plus, during the process of building it I learned more about the non-ideal properties of my components such as op amp headroom, phase reversal, etc. Debugging these circuits also taught me lots and notably I got much more comfortable with using an oscilloscope. Although everything here is not completely original, modifications have been made. Specific credits are given in the folders, but by far the majority of my schematics are influenced by [Moritz Klein]([url](https://www.youtube.com/@MoritzKlein0)), an amazing educator for beginners in synth DIY.
+
+# Video
+[![YouTube](http://i.ytimg.com/vi/ZbMLcu-dgLU/hqdefault.jpg)](https://www.youtube.com/watch?v=ZbMLcu-dgLU)
